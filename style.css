@@ -11,6 +11,10 @@ header {
   color: black;
 }
 
+a {
+  text-decoration: none;
+}
+
 .header-logo {
   float: left;
   padding: 35px;
