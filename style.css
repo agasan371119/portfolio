@@ -4,7 +4,7 @@
 
 header {
   background-color:  #8be4f0;
-  height: 100px;
+  height: 150px;
   background-image:
   linear-gradient(-90deg, #80deea 50%, transparent 50%, transparent);
   background-size: 14px 14px;
@@ -16,20 +16,51 @@ a {
   text-decoration: none;
 }
 
-.header-logo h1{ 
+.header-logo { 
   float: left;
-  padding-top: 20px;
+  padding-top: 35px;
   padding-left: 20px;
-  font-size: 50px;
+  font-size: 70px;
   color: black;
 } 
 
 ul {
-  padding: 40px;
+  padding: 60px;
 }
+
 li {
+  font-size: 20px;
   list-style: none;
   float: left;
-  margin: 0 50px;
+  margin: 0 80px;
+}
+
+.main {
+  text-align: center;
+}
+
+.main-up {
+  height: 300px;
+  font-size: 30px;
+  padding-top: 25px;
+}
+
+h2 {
+  display: inline-block;
+  background: #c2edff;/*背景色*/
+  padding: 0.5em;/*文字まわり（上下左右）の余白*/
+  border-radius: 0.5em;/*角丸*/
+}
+
+.main-up p {
+  font-size: 18px;
+  padding-top: 20px;
+}
+
+.main-middle {
+  background-color: blue;
+  height: 500px;
+  padding-top: 25px;
+  font-size: 30px;
 }
 
