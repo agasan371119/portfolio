@@ -64,3 +64,12 @@ h2 {
   font-size: 30px;
 }
 
+.main-down {
+  padding-top: 25px;
+  background-color: skyblue;
+  height: 500px;
+}
+.main-up p {
+  padding-top: 20px;
+}
+
