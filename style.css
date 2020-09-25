@@ -47,6 +47,7 @@ li {
 }
 
 h2 {
+  
   display: inline-block;
   background: white;/*背景色*/
   padding: 0.5em;/*文字まわり（上下左右）の余白*/
